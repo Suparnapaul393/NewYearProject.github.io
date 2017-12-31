@@ -142,7 +142,9 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 /* Contact*/
-
+#contact{
+	font-align:center;
+}
 
   #contact .social-media {
     font-size: 10px;
